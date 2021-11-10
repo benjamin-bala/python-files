@@ -36,3 +36,11 @@ else:
     print('You guessed wrong')
 
 
+#Features/Bugs
+"""
+1. Check on only the missing word
+2. Add 5 guesses for user
+3. Generate a new word after user has guessed correct
+4. Allow user to exit at any point
+5. Allow user to play again
+"""
